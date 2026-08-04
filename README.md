@@ -2,7 +2,7 @@
 Cybersecurity portfolio showcasing practical investigations, threat analysis, and security research projects.
 
 
-DESCRIPTION:
+DESCRIPTION
 Welcome to my cybersecurity learning repository.
 
 I'm a Computer Science & Engineering student with a growing interest in Blue Team Security, Security Operations (SOC), Digital Forensics, and Incident Response.
@@ -21,7 +21,6 @@ Improve incident response and documentation skills.
 
 
 SKILLS DEMONSTRATED
-
 Networking Security:
                    Packet Analysis
                    Network Traffic Investigations
