@@ -21,6 +21,7 @@ Improve incident response and documentation skills.
 
 
 SKILLS DEMONSTRATED
+
 Networking Security:
                    Packet Analysis
                    Network Traffic Investigations
