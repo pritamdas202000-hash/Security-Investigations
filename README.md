@@ -2,9 +2,9 @@
 Cybersecurity portfolio showcasing practical investigations, threat analysis, and security research projects.
 
 # DESCRIPTION
-*  Welcome to my cybersecurity learning repository.
+Welcome to my cybersecurity learning repository.<br>
 
-- I'm a Computer Science & Engineering student with a growing interest in Blue Team Security, Security Operations (SOC), Digital Forensics, and Incident Response.
+I'm a Computer Science & Engineering student with a growing interest in Blue Team Security, Security Operations (SOC), Digital Forensics, and Incident Response.
 
 - This repository documents my practical investigations, technical skills, and hands-on exercises while completing the TryHackMe SOC Level 1 Learning Path and expanding my knowledge through independent research.
 
